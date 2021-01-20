@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gringotts Wizarding Bank</string>
+    <string name="hello_blank_fragment">blank fragment</string>
+    <string name="UserList">Wizards</string>
+    <string name="Transactions">Transactions</string>
+</resources>
